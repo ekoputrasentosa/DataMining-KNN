@@ -14,3 +14,7 @@ Secara singkat Metode KNN adalah mencari klasifikasi yang ditentukan untuk sebua
 Purpose :
 
 Untuk melihat step by step pemecahan dari raw data, bisa langsung melihat di file main-knn.py karena setiap function sudah / step sudah dilengkapi dengan penjelasan berupa comment
+
+## Perhatian :
+
+File pada dataset tersebut dipakai pada sebuah skripsi asli, jika ingin menggunakan full kode silahkan menggunakan dataset selain data tsb
